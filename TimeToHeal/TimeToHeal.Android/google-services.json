@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "251211071129",
+    "firebase_url": "https://time2heal-2859c.firebaseio.com",
+    "project_id": "time2heal-2859c",
+    "storage_bucket": "time2heal-2859c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251211071129:android:52172098aeb92ec6514208",
+        "android_client_info": {
+          "package_name": "com.companyname.timetohealapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251211071129-jpoasruq4esa2n5btdeh3grir15kqhkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASg5KocHs66Pl91Kvtwr-82HtxzfAqjKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251211071129-jpoasruq4esa2n5btdeh3grir15kqhkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
